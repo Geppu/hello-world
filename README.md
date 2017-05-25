@@ -1,2 +1,3 @@
 # hello-world
 A place to start...
+I'm figuring out how to use this platform. I've made a branch, and now I'm making some edits.
